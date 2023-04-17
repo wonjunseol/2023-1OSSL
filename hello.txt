@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hello and hi everyone say hi
+=======
+hello
+hi
+>>>>>>> c79799795f1cb507335cc42ed3c36359c4d11d5d
